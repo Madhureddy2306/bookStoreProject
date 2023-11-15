@@ -1,0 +1,15 @@
+.link {
+  width: 30%;
+  height: 100%;
+  display: flex;
+  text-decoration-color: transparent;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.cart-icon {
+  height: 80%;
+  width: 40%;
+  cursor: pointer;
+  margin-right: 5px;
+}
